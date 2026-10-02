@@ -8,6 +8,9 @@ Ontwerp en ontwikkel een webapp met een interactieve veldverkenner waarbij bezoe
 
 - [Kevin]([https://github.io/KevinZ2004/Bloemenveld-Frankendael/])
 
+**Live Website**
+- https://kevinz2004.github.io/Bloemenveld-Frankendael/
+
 ## Inhoudsopgave
 
   * [Beschrijving](https://github.com/KevinZ2004/Bloemenveld-Frankendael/README.md#beschrijving)
